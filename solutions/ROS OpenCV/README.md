@@ -1,0 +1,1 @@
+package with the solution of both activities. Should be added to a robot, if working with gazebo be sure that the topic names match. Note that the code is tunned depending on each specific environtment

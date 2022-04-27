@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<launch>
+	<include file="$(find ros_deep_learning)/launch/video_source.ros1.launch"/>	
+	<node name="process" pkg="tf_rec" type="pre-processing.py" output="screen"/>
+	
+</launch>
