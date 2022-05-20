@@ -1,5 +1,8 @@
 # Readme
 
+* Follow the instructions on the PDF file to manufacture all the robot parts
+* All parts are made using 5 mm Acrylic as base material
+
 ## Parts and Parts number
 
 
